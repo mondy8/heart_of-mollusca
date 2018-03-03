@@ -4,11 +4,13 @@
 
 # 3Dデータ素材
 
-・球体上部分
-・球体下部分
-・Ecoflex用フタ部分
-・Ecoflex用土台
-・DragonSkin用土台
+* 球体上部分
+* 球体下部分
+* Ecoflex用フタ部分
+* Ecoflex用土台
+* DragonSkin用土台
+
+<img src="inst_3d.png" alt="instruction" title="説明">
 
 # Eagle切削基板
 
