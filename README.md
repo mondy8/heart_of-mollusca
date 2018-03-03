@@ -1,10 +1,10 @@
 # Heart of Mollusca
 
-[Heart of Mollusca 紹介動画](https://vimeo.com/240353748)
-[ADAA アジアデジタルアートアワード 学生インタラクティブアート部門 優秀賞](https://adaa.jp/ja/winners/winners2017.html)
++ [Heart of Mollusca 紹介動画](https://vimeo.com/240353748)
++ [ADAA アジアデジタルアートアワード 学生インタラクティブアート部門 優秀賞](https://adaa.jp/ja/winners/winners2017.html)
 
 <img src="img/heart_of_mollusca_01.jpg" alt="pic01" title="写真1">
-<img src="img/heart_of_mollusca_01.jpg" alt="pic02" title="写真２">
+<img src="img/heart_of_mollusca_02.jpg" alt="pic02" title="写真２">
 
 # Arduino配線図
 
