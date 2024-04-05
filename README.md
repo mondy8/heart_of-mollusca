@@ -3,11 +3,11 @@
 + [Heart of Mollusca 紹介動画](https://vimeo.com/240353748)
 + [ADAA アジアデジタルアートアワード 学生インタラクティブアート部門 優秀賞](https://adaa.jp/ja/winners/winners2017.html)
 + [北九州デジタルクリエイターコンテスト2018 入選](https://kdcc.info/archive/2018.html)
-+ [ADADA2016 Art paper](https://github.com/ImaokaHiroaki/heart_of-mollusca/tree/master/art_paper.pdf)
++ [ADADA2016 Art paper](https://github.com/ImaokaHiroaki/heart_of-mollusca/blob/master/paper/art_paper.pdf)
 
 <img src="img/heart_of_mollusca_01.jpg" alt="pic01" title="写真1">
 <img src="img/heart_of_mollusca_02.jpg" alt="pic02" title="写真2">
-
+ 
  従来のロボットのイメージには「機械的」というキーワードが常に存在していた。ロボットは重厚であり、硬く、冷たいといったイメージである。それゆえに、ロボットには心がない、人間とロボットがコミュニケーションをとることはできない、といった意見が現状では多く見られる。昨今登場したソフトロボティクスという分野は、柔らかいロボットを研究する分野である。ソフトロボティクスを専攻している研究者たちは、「柔らかさ」をテーマにしたロボットを制作することで、何か今までになかったロボットの新しい可能性を探求している。本作品では、従来のロボットのイメージとは異なる有機的な表現を取り入れたロボットを制作することで、今までになかった新たなロボットとのコミュニケーションを実現したいと考えている。
 
  「Heart of Mollusca」は、人間の心拍とともに動くソフトロボットである。このロボットは、何もしていない状態だと動かず、人の心拍を検知した時、その人の心拍に合わせた動きを始める。鑑賞者はまず、作品の触手の部分にあるパルスセンサーを触る。すると「Heart of Mollusca」の中心部はゆっくりと赤く光りはじめる。そのあと、心拍と共に触手の部分が呼吸をするように膨張・収縮を繰り返す。人差し指で触手を触っているため、心拍にあわせた触手の膨張を感じることができる。「Heart of Mollusca」は、シリコンを使って中から空気を入れることによって動かしている。このシリコンによる柔らかさを用いた軟体動物のような動きは、鑑賞者に独特な感覚をもたらす。
