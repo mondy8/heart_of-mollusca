@@ -2,6 +2,8 @@
 
 + [Heart of Mollusca 紹介動画](https://vimeo.com/240353748)
 + [ADAA アジアデジタルアートアワード 学生インタラクティブアート部門 優秀賞](https://adaa.jp/ja/winners/winners2017.html)
++ [北九州デジタルクリエイターコンテスト2018 入選](https://kdcc.info/archive/2018.html)
++ [ADADA2016 Art paper](https://github.com/ImaokaHiroaki/heart_of-mollusca/tree/master/art_paper.pdf)
 
 <img src="img/heart_of_mollusca_01.jpg" alt="pic01" title="写真1">
 <img src="img/heart_of_mollusca_02.jpg" alt="pic02" title="写真2">
